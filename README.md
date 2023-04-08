@@ -1,2 +1,2 @@
 # PYTHON
-General repo for various personal Python projects
+ Some general python programs
